@@ -1,0 +1,59 @@
+C:\Users\Pescherskiy_AN\Documents\Visual Studio 2015\Projects\WcfDataService\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Documents\Visual Studio 2015\Projects\WcfDataService\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Documents\Visual Studio 2015\Projects\WcfDataService\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Documents\Visual Studio 2015\Projects\WcfDataService\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Documents\Visual Studio 2015\Projects\WcfDataService\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Documents\Visual Studio 2015\Projects\WcfDataService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WcfDataService\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WcfDataService\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WcfDataService\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WcfDataService\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WcfDataService\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WcfDataService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WcfDataService\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WcfDataService\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WcfDataService\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WcfDataService\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WcfDataService\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WcfDataService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WCF XML_Data Service\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WCF XML_Data Service\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WCF XML_Data Service\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WCF XML_Data Service\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WCF XML_Data Service\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (4)\WCF XML_Data Service\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WCF XML_Data Service\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WCF XML_Data Service\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WCF XML_Data Service\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WCF XML_Data Service\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WCF XML_Data Service\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\WCF XML_Data Service\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service_Relise\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service_Relise\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service_Relise\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service_Relise\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service_Relise\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\WCF XML_Data Service_Relise\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (7)\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (7)\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (7)\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (7)\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (7)\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\Новая папка (7)\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\obj\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\bin\Debug\TestClient.exe
+C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Finshed gallery\Final\1\otkl_\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\User\Desktop\Finshed gallery\Final\1\otkl_\TestClient\obj\Debug\TestClient.exe
+C:\Users\User\Desktop\Finshed gallery\Final\1\otkl_\TestClient\obj\Debug\TestClient.pdb
+C:\Users\User\Desktop\Finshed gallery\Final\1\otkl_\TestClient\bin\Debug\TestClient.exe
+C:\Users\User\Desktop\Finshed gallery\Final\1\otkl_\TestClient\bin\Debug\TestClient.pdb
+C:\Users\User\Desktop\Finshed gallery\Final\1\otkl_\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
