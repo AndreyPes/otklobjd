@@ -1,5 +1,0 @@
-C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\bin\Release\TestClient.exe.config
-C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\bin\Release\TestClient.exe
-C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\bin\Release\TestClient.pdb
-C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\obj\Release\TestClient.exe
-C:\Users\Pescherskiy_AN\Desktop\test client-service\TestClient\obj\Release\TestClient.pdb

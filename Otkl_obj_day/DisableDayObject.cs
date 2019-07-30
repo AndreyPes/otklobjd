@@ -1,20 +1,16 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Collections;
 
 namespace WcfDataService
 {
-    public  class DisableDayObject : IEnumerable, IEnumerator
+    public class DisableDayObject : IEnumerable, IEnumerator
     {
-     public int NP1=0;
-     public int NP2=0;
-     public int NP3=0;
-     public int NP4=0;
-       static int[] ints=new int[4];
+        public int NP1 = 0;
+        public int NP2 = 0;
+        public int NP3 = 0;
+        public int NP4 = 0;
+        static int[] ints = new int[4];
         int index = -1;
-         public  DisableDayObject(int NP1,int NP2,int NP3,int NP4)
+        public DisableDayObject(int NP1, int NP2, int NP3, int NP4)
         {
             this.NP1 = NP1;
             this.NP2 = NP2;
@@ -26,7 +22,7 @@ namespace WcfDataService
             ints[3] = NP4;
 
         }
-  
+
         public IEnumerator GetEnumerator()
         {
             return this;
@@ -64,14 +60,12 @@ namespace WcfDataService
             }
         }
 
-
-        public enum DDO 
+        public enum DDO
         {
             NP1 = 61,
             NP2 = 62,
             NP3 = 63,
-            NP4 = 64 
+            NP4 = 64
         }
-
     }
 }
